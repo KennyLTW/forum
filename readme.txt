@@ -1,3 +1,13 @@
+A forum using Spring MVC to create
+
+function: 
+1. base membership create and login
+2. upload multiple file to relational database
+3. all post, file and comment saved in database
+4. different user role permissions:
+     4.1. normal usser: read/write post
+     4.2 admin: read/write post, manage user account/post
+
 Datebase name:	jdbc:derby://localhost:1527/s380f_db
 username:	nbuser
 password:	nbuser
