@@ -13,7 +13,7 @@ username:	nbuser
 password:	nbuser
 
 Registered user account:(username / password):
-1.	kenny	kennypw
+1.	kenny	kennypw123
 2.	benChan	benChanpw
 3.	LilyTse	LilyTsepw
 4.	user	userpw
